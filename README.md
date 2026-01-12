@@ -6,14 +6,14 @@ A collection of skills for Claude Code.
 
 ```
 /plugin marketplace add develupers/skills
-/plugin install develupers-skills
+/plugin install speckit-guide
 ```
 
 ## Available Skills
 
 | Skill                                  | Description                                    |
 |----------------------------------------|------------------------------------------------|
-| [speckit-guide](skills/speckit-guide/) | Workflow navigator for Spec-Driven Development |
+| [speckit-guide](plugins/speckit-guide/) | Workflow navigator for Spec-Driven Development |
 
 ## Contributing
 

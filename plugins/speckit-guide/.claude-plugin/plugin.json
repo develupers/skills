@@ -1,0 +1,8 @@
+{
+  "name": "speckit-guide",
+  "version": "1.0.0",
+  "description": "Workflow navigator for Spec-Driven Development (speckit)",
+  "author": {
+    "name": "Develupers"
+  }
+}

@@ -1,9 +1,0 @@
-{
-  "name": "develupers-skills",
-  "version": "1.0.0",
-  "description": "A collection of skills for Claude Code by Develupers",
-  "author": {
-    "name": "Develupers"
-  },
-  "repository": "https://github.com/develupers/skills"
-}

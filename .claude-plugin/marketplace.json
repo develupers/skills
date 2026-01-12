@@ -8,13 +8,13 @@
   },
   "plugins": [
     {
-      "name": "develupers-skills",
-      "description": "A collection of skills for Claude Code including speckit-guide for Spec-Driven Development workflow navigation",
+      "name": "speckit-guide",
+      "description": "Workflow navigator for Spec-Driven Development (speckit) - detects current state and recommends next command",
       "version": "1.0.0",
       "author": {
         "name": "Develupers"
       },
-      "source": ".",
+      "source": "./plugins/speckit-guide",
       "category": "productivity",
       "homepage": "https://github.com/develupers/skills"
     }
