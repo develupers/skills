@@ -1,5 +1,6 @@
-This skill guides users through the Spec-Driven Development (speckit) workflow. Use when the user asks "what's next?", "where am I in speckit?", "speckit status", "which speckit command should I run?", "help me with speckit workflow", "what speckit command comes after X?", or mentions being lost in the speckit process.
-
+---
+name: speckit-guide
+description: "Navigate the Spec-Driven Development workflow. Use when asked: what's next in speckit, speckit status, where am I in the workflow, which speckit command should I run, help with speckit."
 ---
 
 ## Speckit Workflow Navigator
