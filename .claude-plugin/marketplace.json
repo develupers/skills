@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "develupers-skills",
+  "description": "A collection of skills for Claude Code by Develupers",
+  "owner": {
+    "name": "Develupers",
+    "email": "hello@develupers.com"
+  },
+  "plugins": [
+    {
+      "name": "develupers-skills",
+      "description": "A collection of skills for Claude Code including speckit-guide for Spec-Driven Development workflow navigation",
+      "version": "1.0.0",
+      "author": {
+        "name": "Develupers"
+      },
+      "source": ".",
+      "category": "productivity",
+      "homepage": "https://github.com/develupers/skills"
+    }
+  ]
+}
