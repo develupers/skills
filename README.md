@@ -11,8 +11,8 @@ A collection of skills for Claude Code.
 
 ## Available Skills
 
-| Skill                                  | Description                                    |
-|----------------------------------------|------------------------------------------------|
+| Skill                                   | Description                                    |
+|-----------------------------------------|------------------------------------------------|
 | [speckit-guide](plugins/speckit-guide/) | Workflow navigator for Spec-Driven Development |
 
 ## Contributing
