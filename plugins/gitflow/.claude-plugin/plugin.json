@@ -1,0 +1,8 @@
+{
+  "name": "gitflow",
+  "version": "1.0.0",
+  "description": "Git Flow workflow orchestration for feature, bugfix, release, hotfix, and support branches",
+  "author": {
+    "name": "Develupers"
+  }
+}

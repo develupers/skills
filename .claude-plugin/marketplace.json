@@ -17,6 +17,17 @@
       "source": "./plugins/speckit-guide",
       "category": "productivity",
       "homepage": "https://github.com/develupers/skills"
+    },
+    {
+      "name": "gitflow",
+      "description": "Git Flow workflow orchestration for feature, bugfix, release, hotfix, and support branches",
+      "version": "1.0.0",
+      "author": {
+        "name": "Develupers"
+      },
+      "source": "./plugins/gitflow",
+      "category": "productivity",
+      "homepage": "https://github.com/develupers/skills"
     }
   ]
 }
